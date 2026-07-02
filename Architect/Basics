@@ -1,1 +1,13 @@
+Scenario
 
+Every day, an SAP system sends 100 GB of sales data.
+
+Write down how you would answer:
+
+Where will the data land first?
+Which Azure service will ingest it?
+Where will you transform it?
+Where will business users consume it?
+How will you monitor failures?
+How will you secure it?
+How will you handle retries?
